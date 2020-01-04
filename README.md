@@ -30,5 +30,7 @@
 * #### Automatically determine the correct answer when eight are entered
 * #### Board initialization for smooth game start and end
 ## Development screen
+* #### Board screen
+     ![image](https://user-images.githubusercontent.com/48934537/71764638-a5ce0e80-2f2d-11ea-9e5a-a6ceed194954.png)
 * #### Main Dialog screen
      ![image](https://user-images.githubusercontent.com/48934537/71762777-f6863d00-2f16-11ea-8c3b-f0df90069166.png)
