@@ -11,6 +11,8 @@
 #### About 1 weeks
 ## Language used
 #### Only C++
+## Development tools
+#### Visual Studio 2017
 ## How to play
 #### 1. Connect the board, select the difficulty level and press the start game button
 #### 2. After 3 seconds count, 8 LEDs blink 8 times in different locations at a speed suitable for the chosen difficulty
