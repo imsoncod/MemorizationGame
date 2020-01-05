@@ -10,7 +10,8 @@
 ## Development period
 #### About 1 weeks
 ## Language used
-#### Only C++
+* #### C
+* #### C++
 ## Development tools
 #### Visual Studio 2017
 ## How to play
